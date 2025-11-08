@@ -1,5 +1,8 @@
 ## 🎮 Description
 
+
+<!-- Failed to upload "Enregistrement de l'écran 2025-11-08 150203.mp4" -->
+
 **Light Up** (ou **Akari**) est un jeu de logique sur une grille rectangulaire composée de cases blanches et de cases noires. Certaines cases noires comportent un chiffre (de 0 à 4) qui indique combien d'ampoules doivent leur être adjacentes.
 
 ### 🎯 But du jeu
