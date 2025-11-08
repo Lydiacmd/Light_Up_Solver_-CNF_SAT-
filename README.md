@@ -117,7 +117,30 @@ python3 graphe_lightup.py grille_light_up.txt
 -  **Regles** : Rappele les regles du jeu
 
 ---
+## 📦 Installation
 
+### Prérequis
+
+**Linux/Ubuntu :**
+```bash
+sudo apt-get update
+sudo apt-get install python3 python3-tk minisat
+```
+
+**macOS :**
+```bash
+brew install python python-tk minisat
+```
+
+**Windows :**
+1. Télécharge Python depuis [python.org](https://www.python.org/downloads/)
+2. Télécharge MiniSAT depuis [minisat.se](http://minisat.se/downloads.html)
+3. Place `minisat.exe` dans le dossier du projet
+
+
+<p align="center">
+  Made with ❤️ and ☕ at UGA
+</p>
 
 
 
